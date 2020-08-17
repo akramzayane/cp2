@@ -1,0 +1,52 @@
+.box{
+    background-color: darkslategrey;
+width: 25%;
+height: 75px;
+
+
+
+}
+h1{
+    color: darkolivegreen;
+}
+.title2{
+    color: lightskyblue;
+    font-size: medium;
+}
+.voitures{
+    color: moccasin;
+    font-size: 20px;
+}
+.A{
+    color: peru;
+    font-size: large;
+}
+.tab{
+    color: red;
+    width: 40px;
+    height: 3px;
+    background-color:whitesmoke;
+}
+
+.T{
+color: ;
+font-size: medium;
+}
+.tab1{
+    background-color: gray;
+    width: 50cm;
+    height: 2cm;
+}
+.home{
+    background-color: violet;
+    color: skyblue;
+    font-size: 100px;
+}
+.num{
+    color: thistle;
+    font-size: 100px;
+}
+.box{
+    font-size: 30px;
+    color: tan;
+}
